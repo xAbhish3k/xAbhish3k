@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @War-Legend.
-- 👀 I’m interested in  
+- 👀 I’m interested in  Python
 - 🌱 I’m currently learning.
 - ✨ Search me on telegram my username @ItsMeLegend .
 

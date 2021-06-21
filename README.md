@@ -3,7 +3,7 @@
 
 - I am currently Learning ;))
 - How to reach me **Telegram - [Abhishek](https://t.me/itsmelegend)**
-- **I'm a noob.**
+
 
 
 

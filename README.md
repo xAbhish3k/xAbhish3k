@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @War-Legend.
-- 👀 I’m interested in  Python
-- 🌱 I’m currently learning.
-- ✨ Search me on telegram my username @ItsMeLegend .
+<h1 align="center">Hi ðŸ‘‹ I'm Abhishek</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek&label=Profile%20views&color=0e75b6&style=plastic" alt="Abhishek" /> </p>
 
-<!---
-War-Legend/War-Legend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ðŸ”­ Iâ€™m currently Learning ;))
+- ðŸ“« How to reach me **Telegram - [Abhishek](https://t.me/itsmelegend)**
+- âš¡  **I'm a noob.**
+
+
+
+
+
+
+
+
+
+
+
+

@@ -5,7 +5,7 @@
 - How to reach me **Telegram - [Abhishek](https://t.me/itsmelegend)**
 
 
-My GitHub Stats: ðŸ˜Ž
+My GitHub Stats: ☺️
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=War-Legend&show_icons=true&theme=gotham" alt="War-Legend" />
 <br/>

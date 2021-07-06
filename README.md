@@ -5,11 +5,24 @@
 - How to reach me **Telegram - [Abhishek](https://t.me/itsmelegend)**
 
 
-My GitHub Stats: ☺️
+##  🐙 **Github Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=War-Legend&show_icons=true&theme=gotham" alt="War-Legend" />
-<br/>
-  <br/>
+[![github stats](https://github-readme-stats.vercel.app/api?username=war-legend&show_icons=true&theme=radical)](https://github.com/war-legend)
+
+![GitHub followers](https://img.shields.io/github/followers/war-legend?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/war-legend?affiliations=OWNER&color=aqua&style=for-the-badge)
+![Keybase PGP](https://img.shields.io/keybase/pgp/war-legend?color=aqua&style=for-the-badge)
+
+
+## 🌐 **Top Languages**
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.com/war-legend)
+
+
+
+
+
+
 
 
 

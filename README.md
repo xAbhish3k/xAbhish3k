@@ -11,7 +11,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/war-legend?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/war-legend?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/war-legend?color=aqua&style=for-the-badge)
 
 
 ## 🌐 **Top Languages**

@@ -8,7 +8,7 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=war-legend&show_icons=true&theme=radical)](https://github.com/xabhish3k)
+[![github stats](https://github-readme-stats.vercel.app/api?username=xabhish3k&show_icons=true&theme=radical)](https://github.com/xabhish3k)
 
 ![GitHub followers](https://img.shields.io/github/followers/xabhish3k?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/xabhish3k?affiliations=OWNER&color=aqua&style=for-the-badge)

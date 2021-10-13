@@ -1,6 +1,6 @@
 # Hey , I am Abhishek  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek&label=Profile%20views&color=0e75b6&style=plastic" alt="xabhish3k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhish3k&label=Profile%20views&color=0e75b6&style=plastic" alt="xabhish3k" /> </p>
 
 - I am currently Learning ;))
 - How to reach me **Telegram - [Abhishek](https://t.me/xabhish3k)**
